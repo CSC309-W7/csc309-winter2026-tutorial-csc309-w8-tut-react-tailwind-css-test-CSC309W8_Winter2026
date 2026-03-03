@@ -23,6 +23,7 @@ Your starter repo does **not** include `node_modules/`.
 So after you clone the repo, you **must** install dependencies before running the project:
 
 ```bash
+cd w8
 npm install
 ```
 
